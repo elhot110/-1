@@ -21,7 +21,7 @@ const songs = [
       "https://serv100.albumaty.com/songs_2020/Albumaty.Com_nsr_aldyn_twbar_sal_dmay_ya_elhy.mp3  ",
   },
   {
-    title: "ناصر السالمي",
+    title: "منصور السالمي",
     name: "سوره البقره ",
     source:
       "https://server14.mp3quran.net/mansor/002.mp3",
@@ -34,7 +34,7 @@ const songs = [
   },
   {
     title: "د:حازم شومان",
-    name: "bodcast اي المشكله لو مش ملتزم",
+    name: "podcast اي المشكله لو مش ملتزم",
     source:
       "https://way2allah.com/khotab-mirror-225529-361747.htm",
   },
