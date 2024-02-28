@@ -3,7 +3,7 @@ Ecem Gokdogan */
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600&display=swap");
 
 :root {
-  --primary-clr: rgba(228, 228, 229, 1);
+  --primary-clr:rgb(24, 247, 80);
 }
 
 * {
@@ -105,7 +105,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  color: var(--primary-clr);
+  color: rgb(92, 247, 22);
   width: 380px;
   padding: 10px 30px;
   border-radius: 20px;
